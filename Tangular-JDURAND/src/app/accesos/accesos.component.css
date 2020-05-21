@@ -1,0 +1,47 @@
+.btn {
+    background-color: rgb(111, 120, 12) !important;
+    border-radius: 5px 2px 8px 2px !important;
+}
+
+.btn:hover {
+    background-color: #22fc24 !important;
+    color: black !important;
+    font-weight: bold !important;
+}
+
+.i2 {
+    background-image: url(/assets/img/fondo.jpg) !important;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    border-radius: 22px 15px 15px 22px;
+}
+
+.i2:hover {
+    box-shadow: 10px 15px 30px 8px #22fc24;
+}
+
+.i3 {
+    border-radius: 15px 10px 6px 22px;
+}
+
+.i3:hover {
+    box-shadow: 10px 15px 30px 8px #9afa00;
+}
+
+.tex:hover {
+    font-weight: bolder;
+    background-color: rgba(0, 0, 0, 0.534);
+}
+
+.i4 {
+    background-color: #22fc2686;
+}
+
+.footer-copyright {
+    background-color: rgba(0, 0, 0, 0.671) !important;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: auto;
+}
