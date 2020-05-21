@@ -1,0 +1,96 @@
+.btn {
+    background-color: rgb(111, 120, 12) !important;
+    border-radius: 5px 2px 8px 2px !important;
+}
+
+.btn:hover {
+    background-color: #22fc24 !important;
+    color: black !important;
+    font-weight: bold !important;
+}
+
+i {
+    color: rgb(111, 120, 12);
+}
+
+
+/* icon prefix focus color */
+
+.input-field .prefix.active {
+    color: #22fc24;
+}
+
+
+/* === Estilos Inputs ==== */
+
+
+/* label underline focus color */
+
+.input-field input[type=email]:focus {
+    border-bottom: 1px solid #22fc24 !important;
+    box-shadow: 0 1px 0 0 #22fc24 !important;
+    /* label focus color */
+}
+
+
+/* label focus color */
+
+.input-field input[type=email]:focus+label {
+    color: #22fc24 !important;
+    font-weight: bolder;
+}
+
+
+/* label underline focus color */
+
+.input-field input[type=password]:focus {
+    border-bottom: 1px solid #22fc24 !important;
+    box-shadow: 0 1px 0 0 #22fc24 !important;
+    /* label focus color */
+}
+
+
+/* label focus color */
+
+.input-field input[type=password]:focus+label {
+    color: #22fc24 !important;
+    font-weight: bolder;
+}
+
+.footer-copyright {
+    background-color: rgba(0, 0, 0, 0.671) !important;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: auto;
+}
+
+.acceso {
+    color: #22fc24 !important;
+}
+
+.acceso:hover {
+    color: black !important;
+    background-color: #22fc24;
+    font-weight: bolder;
+}
+
+#formulario {
+    margin-top: 10% !important;
+}
+
+#modal1 {
+    background-image: url(/assets/img/fondo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+#modal1:hover {
+    box-shadow: 10px 15px 30px 8px #22fc24;
+}
+
+input {
+    background-color: white !important;
+    border-radius: 10px !important;
+}
