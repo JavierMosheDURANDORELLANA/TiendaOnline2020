@@ -1,0 +1,64 @@
+#barra1 {
+    font-size: 1.3rem;
+}
+
+.card-panel:hover {
+    box-shadow: 0 2px 2px 0 green, 0 3px 1px -2px green, 0 1px 15px 0 green;
+}
+
+.i1 {
+    padding: 20% 20% 20% 20%;
+}
+
+#busqueda:hover {
+    box-shadow: 0 2px 2px 0 green, 0 3px 1px -2px green, 0 1px 5px 0 green;
+}
+
+
+/* label focus color */
+
+.input-field input[type=text]:focus+label {
+    color: green !important;
+}
+
+
+/*label underline focus color */
+
+.input-field input[type=text]:focus {
+    border-bottom: 1px solid green !important;
+    box-shadow: 0 1px 0 0 green !important;
+}
+
+.i2 {
+    text-transform: capitalize;
+}
+
+.btn:hover {
+    background-color: yellow;
+    font-weight: bolder;
+}
+
+.btn {
+    background-color: green;
+}
+
+.card:hover {
+    box-shadow: 0 2px 2px 0 green, 0 3px 1px -2px green, 0 1px 15px 0 green;
+}
+
+input[type=number]:focus {
+    border-bottom: 1px solid green !important;
+    box-shadow: 0 1px 0 0 green !important;
+}
+
+.i3 {
+    color: white;
+}
+
+.i3:hover {
+    color: red !important;
+}
+
+#divsec {
+    overflow: scroll;
+}

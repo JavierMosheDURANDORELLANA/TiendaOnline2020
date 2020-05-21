@@ -94,3 +94,14 @@ input {
     background-color: white !important;
     border-radius: 10px !important;
 }
+
+.aviso {
+    color: #22fc24 !important;
+    background-color: rgba(192, 5, 5, 0.808) !important;
+}
+
+@media only screen and (max-height: 415px) {
+    #formulario {
+        margin-top: 0 !important;
+    }
+}

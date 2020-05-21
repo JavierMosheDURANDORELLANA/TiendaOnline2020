@@ -5,12 +5,18 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { LoginComponent } from './login/login.component';
 import { AccesosComponent } from './accesos/accesos.component';
+import { TiendaComponent } from './tienda/tienda.component';
+import { BarraSuperiorComponent } from './tienda/barra-superior/barra-superior.component';
+import { CatalogoComponent } from './tienda/catalogo/catalogo.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     LoginComponent,
-    AccesosComponent
+    AccesosComponent,
+    TiendaComponent,
+    BarraSuperiorComponent,
+    CatalogoComponent
   ],
   imports: [
     BrowserModule,
