@@ -1,0 +1,19 @@
+{
+  "hosting": [
+    {
+      "target": "Tangular-JDURAND",
+      "public": "dist/Tangular-JDURAND",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**"
+      ],
+      "rewrites": [
+        {
+          "source": "**",
+          "destination": "/index.html"
+        }
+      ]
+    }
+  ]
+}

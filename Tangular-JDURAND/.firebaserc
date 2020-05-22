@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "tiendaonline2020-87fc0": {
+      "hosting": {
+        "Tangular-JDURAND": [
+          "tiendaonline2020-87fc0"
+        ]
+      }
+    }
+  }
+}

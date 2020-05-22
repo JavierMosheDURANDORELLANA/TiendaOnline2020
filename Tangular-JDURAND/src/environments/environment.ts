@@ -4,15 +4,15 @@
 
 export const environment = {
   production: false,
-  firebaseConfig : {
-    apiKey: "AIzaSyD4zYu0Xt_yTne2yjT4uMbRKdEmkM9lMYA",
-    authDomain: "login-tiendaonline-jdurand.firebaseapp.com",
-    databaseURL: "https://login-tiendaonline-jdurand.firebaseio.com",
-    projectId: "login-tiendaonline-jdurand",
-    storageBucket: "login-tiendaonline-jdurand.appspot.com",
-    messagingSenderId: "314479235359",
-    appId: "1:314479235359:web:bb3af54b2e78ce4c1f202a",
-    measurementId: "G-T2YBSHGCS9"
+      firebaseConfig : {
+      apiKey: "AIzaSyBKKR6HHmGpKb1BnkTFNWxDqjUIzCw9bIs",
+      authDomain: "tiendaonline2020-87fc0.firebaseapp.com",
+      databaseURL: "https://tiendaonline2020-87fc0.firebaseio.com",
+      projectId: "tiendaonline2020-87fc0",
+      storageBucket: "tiendaonline2020-87fc0.appspot.com",
+      messagingSenderId: "595100645960",
+      appId: "1:595100645960:web:a72b9da7472b79589f767d",
+      measurementId: "G-F2VZV8R5GK"
   },
 };
 
